@@ -61,9 +61,10 @@ YOUTUBE_API_KEY=your_api_key_here
 ```
 
 4. Run the notebook
-`jupyter notebook`
+`Jupyter Notebook`
 
 
 📸 Dashboard Preview    
+![Dashboard](images/saigon teu dashboard.png)
 
 
