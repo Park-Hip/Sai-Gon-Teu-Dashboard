@@ -69,7 +69,7 @@ YOUTUBE_API_KEY=your_api_key_here
 ![Dashboard](images/saigon_teu_dashboard.png)
 
 ## 💌 Contact
-Feel free to reach out or connect on [LinkedIn](www.linkedin.com/in/phambachhiep) if you'd like to collaborate or have any questions!
+Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/phambachhiep) if you'd like to collaborate or have any questions!
 
 
 
