@@ -1,4 +1,6 @@
-# 📊 Sai Gon Teu Dashboard 🇻🇳
+# 📊 Sai Gon Teu Dashboard 
+
+![picture](images/saigon_teu_image.png)
 
 A data analysis and visualization project exploring the performance of Vietnamese stand-up comedians using YouTube video data.
 
@@ -8,8 +10,7 @@ A data analysis and visualization project exploring the performance of Vietnames
 
 - Collected video data from Sai Gon Teu (a Vietnamese stand-up comedy YouTube channel using the **YouTube Data API**).
 - Analyzed and visualized performance trends using **Python** and **Power BI**.
-- Assessed each comedian's individual impact in **group videos** based on likes, views, and comments.
-- Implemented custom metrics to understand the contribution of each comedian.
+- Assessed each comedian's performance and individual impact in **group videos** based on likes, views, and comments.
 
 > 🗓️ **Note**: The data is from 2023, but the analytical approach remains meaningful.
 
@@ -64,7 +65,13 @@ YOUTUBE_API_KEY=your_api_key_here
 `Jupyter Notebook`
 
 
-📸 Dashboard Preview    
-![Dashboard](images/saigon teu dashboard.png)
+## 📸 Dashboard Preview    
+![Dashboard](images/saigon_teu_dashboard.png)
+
+## 💌 Contact
+Feel free to reach out or connect on [LinkedIn](www.linkedin.com/in/phambachhiep) if you'd like to collaborate or have any questions!
+
+
+
 
 
