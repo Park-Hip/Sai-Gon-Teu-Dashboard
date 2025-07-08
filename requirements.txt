@@ -1,0 +1,6 @@
+google-api-python-client
+python-dotenv
+pandas
+ipython
+numpy
+isodate
